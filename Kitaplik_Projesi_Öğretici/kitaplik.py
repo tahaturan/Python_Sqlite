@@ -154,7 +154,6 @@ yazar_ismi=input("Silmesini İstediğiniz Yazar: ")
 verileri_sil(yazar_ismi)
 print("Veriler Silindi...")
 """
-verileri_al()
 #Diyelim ki datebase üzerinde işlemlerimiz bitti o zaman da dosya işlemlerindeki gibi bağlantımızı kapatmamız gerekiyor
 con.close()
 
